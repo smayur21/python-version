@@ -1,1 +1,1 @@
-print("Wassup Buddy!! v1")
+print("Wassup Buddy!! This is the Build Triggers script")
